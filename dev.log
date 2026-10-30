@@ -1,0 +1,47 @@
+
+> velora@0.1.0 dev
+> next dev
+
+▲ Next.js 16.4.3 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.1.84:3000
+✓ Ready in 842ms
+✓ Running next.config.ts took 92ms
+
+ GET /products 200 in 761ms (next.js: 302ms, application-code: 460ms)
+ GET / 200 in 111ms (next.js: 12ms, application-code: 99ms)
+ GET /products 200 in 146ms (next.js: 3ms, application-code: 144ms)
+ GET /products/p1 200 in 803ms (next.js: 688ms, application-code: 116ms)
+ GET /cart 200 in 85ms (next.js: 11ms, application-code: 74ms)
+ GET /wishlist 200 in 127ms (next.js: 14ms, application-code: 113ms)
+ GET / 200 in 279ms (next.js: 25ms, application-code: 254ms)
+ GET / 200 in 342ms (next.js: 34ms, application-code: 308ms)
+ GET /cart 200 in 117ms (next.js: 44ms, application-code: 73ms)
+ GET /wishlist 200 in 102ms (next.js: 14ms, application-code: 88ms)
+ GET /wishlist 200 in 45ms (next.js: 4ms, application-code: 41ms)
+ GET /cart 200 in 38ms (next.js: 3ms, application-code: 35ms)
+ GET / 200 in 200ms (next.js: 5ms, application-code: 195ms)
+ GET /wishlist 200 in 309ms (next.js: 67ms, application-code: 242ms)
+ GET /cart 200 in 39ms (next.js: 6ms, application-code: 33ms)
+ GET /wishlist 200 in 28ms (next.js: 3ms, application-code: 26ms)
+ GET /wishlist 200 in 26ms (next.js: 3ms, application-code: 23ms)
+  Turbopack has seen frequent file updates and is waiting for the filesystem to settle (0.5s elapsed so far; last modified: "\\\\?\\C:\\Users\\amalc\\OneDrive\\Desktop\\New folder\\e-commerce\\stitch_velora_fashion_ecommerce_platform\\node_modules\\electron-to-chromium\\desktop.ini").
+  Turbopack has seen frequent file updates and is waiting for the filesystem to settle (1.5s elapsed so far; last modified: "\\\\?\\C:\\Users\\amalc\\OneDrive\\Desktop\\New folder\\e-commerce\\stitch_velora_fashion_ecommerce_platform\\node_modules\\has-flag").
+  Turbopack has seen frequent file updates and is waiting for the filesystem to settle (3.5s elapsed so far; last modified: "\\\\?\\C:\\Users\\amalc\\OneDrive\\Desktop\\New folder\\e-commerce\\stitch_velora_fashion_ecommerce_platform\\node_modules\\resolve-pkg-maps\\desktop.ini").
+  Turbopack has seen frequent file updates and is waiting for the filesystem to settle (0.5s elapsed so far; last modified: "\\\\?\\C:\\Users\\amalc\\OneDrive\\Desktop\\New folder\\e-commerce\\stitch_velora_fashion_ecommerce_platform\\node_modules\\@humanwhocodes\\desktop.ini").
+  Turbopack has seen frequent file updates and is waiting for the filesystem to settle (1.5s elapsed so far; last modified: "\\\\?\\C:\\Users\\amalc\\OneDrive\\Desktop\\New folder\\e-commerce\\stitch_velora_fashion_ecommerce_platform\\node_modules\\@unrs\\resolver-binding-win32-x64-msvc").
+  Turbopack has seen frequent file updates and is waiting for the filesystem to settle (0.5s elapsed so far; last modified: "\\\\?\\C:\\Users\\amalc\\OneDrive\\Desktop\\New folder\\e-commerce\\stitch_velora_fashion_ecommerce_platform\\node_modules\\next\\navigation-types\\compat").
+  Turbopack has seen frequent file updates and is waiting for the filesystem to settle (0.5s elapsed so far; last modified: "\\\\?\\C:\\Users\\amalc\\OneDrive\\Desktop\\New folder\\e-commerce\\stitch_velora_fashion_ecommerce_platform\\node_modules\\@swc\\helpers\\_\\_class_private_method_get").
+  Turbopack has seen frequent file updates and is waiting for the filesystem to settle (1.5s elapsed so far; last modified: "\\\\?\\C:\\Users\\amalc\\OneDrive\\Desktop\\New folder\\e-commerce\\stitch_velora_fashion_ecommerce_platform\\node_modules\\@swc\\helpers\\_\\_ts_generator").
+  Turbopack has seen frequent file updates and is waiting for the filesystem to settle (0.5s elapsed so far; last modified: "\\\\?\\C:\\Users\\amalc\\OneDrive\\Desktop\\New folder\\e-commerce\\stitch_velora_fashion_ecommerce_platform\\node_modules\\next\\dist\\compiled\\desktop.ini").
+  Turbopack has seen frequent file updates and is waiting for the filesystem to settle (1.5s elapsed so far; last modified: "\\\\?\\C:\\Users\\amalc\\OneDrive\\Desktop\\New folder\\e-commerce\\stitch_velora_fashion_ecommerce_platform\\node_modules\\next\\dist\\compiled\\path-to-regexp").
+  Turbopack has seen frequent file updates and is waiting for the filesystem to settle (3.5s elapsed so far; last modified: "\\\\?\\C:\\Users\\amalc\\OneDrive\\Desktop\\New folder\\e-commerce\\stitch_velora_fashion_ecommerce_platform\\node_modules\\next\\dist\\styled-jsx\\types").
+  Turbopack has seen frequent file updates and is waiting for the filesystem to settle (0.5s elapsed so far; last modified: "\\\\?\\C:\\Users\\amalc\\OneDrive\\Desktop\\New folder\\e-commerce\\stitch_velora_fashion_ecommerce_platform\\node_modules\\next\\dist\\compiled\\@next\\desktop.ini").
+  Turbopack has seen frequent file updates and is waiting for the filesystem to settle (1.5s elapsed so far; last modified: "\\\\?\\C:\\Users\\amalc\\OneDrive\\Desktop\\New folder\\e-commerce\\stitch_velora_fashion_ecommerce_platform\\node_modules\\next\\dist\\esm\\lib\\framework\\desktop.ini").
+  Turbopack has seen frequent file updates and is waiting for the filesystem to settle (0.5s elapsed so far; last modified: "\\\\?\\C:\\Users\\amalc\\OneDrive\\Desktop\\New folder\\e-commerce\\stitch_velora_fashion_ecommerce_platform\\node_modules\\next\\dist\\esm\\lib\\metadata\\generate").
+✓ Compiled in 660ms
+✓ Compiled in 88ms
+ GET /wishlist 200 in 292ms (next.js: 109ms, application-code: 184ms)
+  Turbopack has seen frequent file updates and is waiting for the filesystem to settle (0.5s elapsed so far; last modified: "\\\\?\\C:\\Users\\amalc\\OneDrive\\Desktop\\New folder\\e-commerce\\stitch_velora_fashion_ecommerce_platform\\node_modules\\next\\script.js").
+  Turbopack has seen frequent file updates and is waiting for the filesystem to settle (0.5s elapsed so far; last modified: "\\\\?\\C:\\Users\\amalc\\OneDrive\\Desktop\\New folder\\e-commerce\\stitch_velora_fashion_ecommerce_platform\\node_modules\\next\\headers.js").
+  Turbopack has seen frequent file updates and is waiting for the filesystem to settle (0.5s elapsed so far; last modified: "\\\\?\\C:\\Users\\amalc\\OneDrive\\Desktop\\New folder\\e-commerce\\stitch_velora_fashion_ecommerce_platform\\node_modules\\next\\client.js").

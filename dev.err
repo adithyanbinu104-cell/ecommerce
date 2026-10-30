@@ -1,0 +1,18 @@
+[browser] ./components/CartView.tsx:264:24
+Error: Expected '</', got 'jsx text'
+  262 |                   {shipping === 0 ? "Complimentary" : `$${shipping}`}
+  263 |                   {shipping === 0 ? "Complimentary" : `$${shipping.toFixed(2)}`}
+> 264 |                 </span>
+      |                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 265 |               </div>
+      | ^^^^^^^^^^^^^^
+  266 |                 <span>${total}</span>
+  267 |                 <span>Total</span>
+  268 |                 <span>${total.toFixed(2)}</span>
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/CartView.tsx
+    ./app/cart/page.tsx 
